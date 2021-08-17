@@ -2,7 +2,7 @@
   "name": "DemoWebApp",
   "short_name": "DemoWebApp",
   "start_url": ".",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "landscape",
   "background_color": "#fff",
   "description": "DemoWebApp"
